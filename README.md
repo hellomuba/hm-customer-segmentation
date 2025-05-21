@@ -9,12 +9,12 @@ Data science project analyzing H&M fashion retail data to identify customer segm
 - K-Means Clustering, RFM Analysis
 - Jupyter Notebooks, Kaggle Datasets
 
-## 📊 Key Results
+## Key Results
 - [To be updated as project progresses]
 - Identified X customer segments
 - Projected $X revenue increase
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 git clone https://github.com/[your-username]/hm-customer-segmentation
 pip install -r requirements.txt
